@@ -1,0 +1,1 @@
+# Isolation logic (Docker/chroot)
